@@ -29,7 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-![image URL] (https://github.com/marceatmon/post-install-config/blob/main/Add%20Help%20Topics%20for%20End%20Users.jpg?raw=true)
+![image URL](https://github.com/marceatmon/post-install-config/blob/main/Add%20Help%20Topics%20for%20End%20Users.jpg?raw=true)
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
