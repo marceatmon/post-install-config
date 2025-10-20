@@ -29,7 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 
-![image URL](https://github.com/marceatmon/post-install-config/blob/main/Add%20New%20Role.jpg?raw=true)
+![image URL](https://github.com/marceatmon/osTicket-files/blob/main/Add%20New%20Role.jpg?raw=true)
 
 <p>
 In the osTicket Admin panel, an agent profile can be added along with the agent's specific role and permissions needed for their organization.
