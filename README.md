@@ -39,7 +39,7 @@ In the osTicket Admin panel, an agent profile can be added along with the agent'
 ![image URL](https://github.com/marceatmon/osTicket-files/blob/main/Add%20New%20Dept.jpg?raw=true)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the osTicket Admin panel, a new department can be added along with the department's ticket assignment settings and chain of command for their organization.
 </p>
 <br />
 
