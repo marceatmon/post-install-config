@@ -36,42 +36,42 @@ In the osTicket Admin panel, an agent profile can be added along with the agent'
 </p>
 <br />
 
-![image URL](https://github.com/marceatmon/post-install-config/blob/main/Add%20New%20Dept.jpg?raw=true)
+![image URL](https://github.com/marceatmon/osTicket-files/blob/main/Add%20New%20Dept.jpg?raw=true)
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
-![image URL](https://github.com/marceatmon/post-install-config/blob/main/Add%20New%20Team.jpg?raw=true)
+![image URL](https://github.com/marceatmon/osTicket-files/blob/main/Add%20New%20Team.jpg?raw=true)
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
-![image URL](https://github.com/marceatmon/post-install-config/blob/main/Add%20New%20Agent.jpg?raw=true)
+![image URL](https://github.com/marceatmon/osTicket-files/blob/main/Add%20New%20Agent.jpg?raw=true)
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
-![image URL](https://github.com/marceatmon/post-install-config/blob/main/Add%20New%20User.jpg?raw=true)
+![image URL](https://github.com/marceatmon/osTicket-files/blob/main/Add%20New%20User.jpg?raw=true)
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
-![image URL](https://github.com/marceatmon/post-install-config/blob/main/Add%20New%20SLA%20Plan.jpg?raw=true)
+![image URL](https://github.com/marceatmon/osTicket-files/blob/main/Add%20New%20SLA%20Plan.jpg?raw=true)
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
-![image URL](https://github.com/marceatmon/post-install-config/blob/main/Add%20Help%20Topics%20for%20End%20Users.jpg?raw=true)
+![image URL](https://github.com/marceatmon/osTicket-files/blob/main/Add%20Help%20Topics%20for%20End%20Users.jpg?raw=true)
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
