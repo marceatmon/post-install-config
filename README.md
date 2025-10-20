@@ -64,16 +64,3 @@ In the osTicket Agent panel, new users can be added to the osTicket system.
 </p>
 <br />
 
-![image URL](https://github.com/marceatmon/osTicket-files/blob/main/Add%20New%20SLA%20Plan.jpg?raw=true)
-</p>
-<p>
-In the osTicket Admin panel, new Service Level Agreement plans (SLA Plans) can be added and their status can be checked. This helps to set the expectaions on what is provided to the client.
-</p>
-<br />
-
-![image URL](https://github.com/marceatmon/osTicket-files/blob/main/Add%20Help%20Topics%20for%20End%20Users.jpg?raw=true)
-</p>
-<p>
-In the osTicket Admin panel, new Help Topics can be added. This can assist end users by having the most common topics already available for them to research. This reduces the need for tickets to address simple tasks and improves the efficiency in resolving tickets.
-</p>
-<br />
