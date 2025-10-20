@@ -46,34 +46,34 @@ In the osTicket Admin panel, a new department can be added along with the depart
 ![image URL](https://github.com/marceatmon/osTicket-files/blob/main/Add%20New%20Team.jpg?raw=true)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the osTicket Admin panel, new teams are added. The members of the team and their immediate superior can be added as well.
 </p>
 <br />
 
 ![image URL](https://github.com/marceatmon/osTicket-files/blob/main/Add%20New%20Agent.jpg?raw=true)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the osTicket Admin panel, new agents are added and their access configured.
 </p>
 <br />
 
 ![image URL](https://github.com/marceatmon/osTicket-files/blob/main/Add%20New%20User.jpg?raw=true)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the osTicket Agent panel, new users can be added to the osTicket system.
 </p>
 <br />
 
 ![image URL](https://github.com/marceatmon/osTicket-files/blob/main/Add%20New%20SLA%20Plan.jpg?raw=true)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the osTicket Admin panel, new Service Level Agreement plans (SLA Plans) can be added and their status can be checked. This helps to set the expectaions on what is provided to the client.
 </p>
 <br />
 
 ![image URL](https://github.com/marceatmon/osTicket-files/blob/main/Add%20Help%20Topics%20for%20End%20Users.jpg?raw=true)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the osTicket Admin panel, new Help Topics can be added. This can assist end users by having the most common topics already available for them to research. This reduces the need for tickets to address simple tasks and improves the efficiency in resolving tickets.
 </p>
 <br />
